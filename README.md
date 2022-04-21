@@ -1,8 +1,6 @@
 # 738IOTCS
 
-<p align="center">
- <img src="banner.jpeg?raw=true" alt="738IOTCS Logo" width="50%" height="50%" />
-</p>
+![738IOTCS Banner](banner.jpeg "738IOTCS")
 
 This repository contains the supplementary materials used in the 738IOTCS module.
 
@@ -11,3 +9,5 @@ This repository contains the supplementary materials used in the 738IOTCS module
 ### Labs
 
 - Lab 1 > [Virtualization](Labs/Virtualization.md)
+
+- Lab 2 > [Linux Crash Course](Labs/LinuxCrashCourse.md)
