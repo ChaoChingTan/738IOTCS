@@ -43,7 +43,26 @@ Detailed documentation can be found below, for reference if necesary:
 
       iv. Memory: 2 GB
 
-6. [Start VM](https://www.virtualbox.org/manual/ch01.html#intro-starting-vm-first-time) and [Install Fedora Linux](https://docs.fedoraproject.org/en-US/fedora/f36/install-guide/install/Installing_Using_Anaconda/#sect-installation-graphical-mode)
+6. [Start VM](https://www.virtualbox.org/manual/ch01.html#intro-starting-vm-first-time) 
+
+7. [Install Fedora Linux](https://docs.fedoraproject.org/en-US/fedora/f36/install-guide/install/Installing_Using_Anaconda/#sect-installation-graphical-mode)
+
+- Fedora Installation notes:
+  
+  ![Completion of Fedora Installation](Virtualization_fedora_install_completion.png)
+
+  - After successful installation of Fedora, you will be presented with a screen similar to the one above.  Remember to change the boot media in your hyperviser to boot from the hard disk instead of the CD-ROM else you will be prompted for installation on reboot.  
+
+  - Restart the system to complete the installation.  ![Restart Fedora](Virtualization_Fedora_restart.png)
+
+  - You will be presented with a screen similar to the one below for initial setup.  ![Fedora Initial Setup](Virtualization_Fedora_first_setup.png)
+
+  - In this screen, setup your username accordingly.  The **Full Name** field is the GECOS which is typically used to store user's name.  The **Username** field is the one that is used by the operating system to identify the user.  Set the full name to your actual name and the username to *student*.  
+  
+  ![Username Setup](Virtualization_Fedora_username.png)
+
+  In the following screen, setup a password for this user.  Do not forget the password that you have set.  
+
 
 ## Resources
 
