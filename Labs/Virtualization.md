@@ -61,7 +61,7 @@ Detailed documentation can be found below, for reference if necesary:
   
   ![Username Setup](Virtualization_Fedora_username.png)
 
-  In the following screen, setup a password for this user.  Do not forget the password that you have set.  
+  In the screen which follows, setup a password for this user.  Do not forget the password that you have set.  
 
 
 ## Resources
